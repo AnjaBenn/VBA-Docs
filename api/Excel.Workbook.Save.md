@@ -32,6 +32,8 @@ To mark a workbook as saved without writing it to a disk, set its **[Saved](Exce
 
 The first time you save a workbook, use the **[SaveAs](Excel.Workbook.SaveAs.md)** method to specify a name for the file.
 
+This method overwrites all currency formatting in the file.
+
 
 ## Example
 
